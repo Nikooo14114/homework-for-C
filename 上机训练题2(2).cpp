@@ -31,6 +31,7 @@ int main()
 
         printf("重合面积为%f\n", s);
     }
+    printf("I love guangzhou");
     return 0;
 }
 

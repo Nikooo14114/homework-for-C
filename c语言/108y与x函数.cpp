@@ -10,6 +10,6 @@ int main()
 	    y=2*x-1;
 	else
 	    y=3*x-11;
-	printf("y is %f",y);
+	printf("y is %f\n",y);
 	return 0;
 }

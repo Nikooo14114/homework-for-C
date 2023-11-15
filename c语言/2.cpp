@@ -8,7 +8,6 @@ int main()
     {
         T11=T11-0.0005;
         Q1=c*(Weight1)*(T1-T11);
-        Q2=Q1*(T2/T1);
         T22=(c*Weight2*T2)/(c*Weight2-Q1/T11);
     }
     printf("T11=%7.1fK\n",T11);

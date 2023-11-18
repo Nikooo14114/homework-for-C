@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
     char c;
     int letters = 0, spaces = 0, digits = 0, others = 0;
 

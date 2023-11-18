@@ -34,9 +34,9 @@
       "stopAtEntry": false,
       "externalConsole": true,
       "cwd": "c:/Users/14114/Documents/GitHub/homework-for-C",
-      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "program": "c:/Users/14114/Documents/GitHub/homework-for-C/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:\\Users\\14114\\Documents\\mingw\\mingw64\\bin\\gdb.exe",
+      "miDebuggerPath": "gdb",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<math.h>
 int main()
 {
     int a=1,b=1;
@@ -11,9 +10,6 @@ int main()
     for(c;c<=10;c++)
         sum3=sum3+1/c;
     sum=sum1+sum2+sum3;
-    printf("sum1=%f\n",sum1);
-    printf("sum2=%f\n",sum2);
-    printf("sum3=%f\n",sum3);
     printf("sum=%f\n",sum);
     return 0; 
 }
